@@ -19,8 +19,8 @@ class ViewController: UIViewController {
   @IBOutlet weak var playerView: UIView!
   @IBOutlet var textView: UITextView!
   
-  let EMBED_CODE = "Y1ZHB1ZDqfhCPjYYRbCEOz0GR8IsVRm1"
-  let PCODE = "c0cTkxOqALQviQIGAHWY5hP0q9gU"
+  let EMBED_CODE = ""
+  let PCODE = ""
   let PLAYERDOMAIN = "http://www.ooyala.com"
   
   var formatter: DateFormatter
